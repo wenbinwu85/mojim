@@ -1,5 +1,5 @@
 # mojim
-save lyrics from mojim
+save lyrics from mojim, support both traditional and simplified chinese input
 
 1. run from terminal
 2. input artist name and song name
