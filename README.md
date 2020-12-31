@@ -6,5 +6,6 @@ save lyrics from mojim
 3. the lyrics is saved to a txt file
 
 requirement:
-1. beautifulsoup 4
-2. html5lib
+1. requests
+2. beautifulsoup 4
+3. html5lib
